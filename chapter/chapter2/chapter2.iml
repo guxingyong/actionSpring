@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/fb/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/beanfactory/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/beanfactory/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/simple/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/injectfun/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/context/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/auto/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/attr/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/auto/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/ditype/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/context/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/attr/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/anno/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/scope/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/tagdepend/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/anno/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/context/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/fb/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/simple/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/scope/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/injectfun/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/ditype/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/tagdepend/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/impt/beans1.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/impt/beans1.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/attr/beans1.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/conf/beans1.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/conf/beans1.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/resource/beans1.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/resource/beans1.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/attr/beans1.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/conf/beans2.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/resource/beans2.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/resource/beans2.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/attr/beans2.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/attr/beans2.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/impt/beans2.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/impt/beans2.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/conf/beans2.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/conf/beans3.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/conf/beans3.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/moAttack.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/com/smart/anno/mycomponent.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com.smart/anno/mycomponent.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:3.1.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:3.1.1.RELEASE" level="project" />
+  </component>
+</module>
